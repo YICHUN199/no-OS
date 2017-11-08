@@ -1,0 +1,4 @@
+<map id="aducm_irq_desc" name="aducm_irq_desc">
+<area shape="rect" id="node1" title="Stores specific platform parameters." alt="" coords="5,95,132,121"/>
+<area shape="rect" id="node2" href="$structcallback__desc.html" title="Structure describing a callback to be registered." alt="" coords="13,5,124,32"/>
+</map>
